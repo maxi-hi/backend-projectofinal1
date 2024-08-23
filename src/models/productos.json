@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Smartphone X12",
+    "description": "Smartphone de última generación con 128GB de almacenamiento y cámara de 48MP.",
+    "price": "599.99",
+    "img": "Sin Imagen",
+    "code": "P001",
+    "stock": "150",
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Auriculares Inalámbricos X3",
+    "description": "Auriculares Bluetooth con cancelación de ruido y hasta 30 horas de batería.",
+    "price": "129.99",
+    "img": "Sin Imagen",
+    "code": "P002",
+    "stock": "85",
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Laptop UltraBook Pro",
+    "description": "Laptop ultraligera con pantalla de 14 pulgadas, 16GB RAM y 512GB SSD.",
+    "price": "999.99",
+    "img": "Sin Imagen",
+    "code": "P003",
+    "stock": "60",
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Smartwatch FitLife",
+    "description": "Reloj inteligente con seguimiento de actividad, frecuencia cardíaca y GPS integrado.",
+    "price": "199.99",
+    "img": "Sin Imagen",
+    "code": "P004",
+    "stock": "200",
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Cámara Digital ProShot",
+    "description": "Cámara digital con sensor de 24MP, grabación de video 4K y lente intercambiable.",
+    "price": "799.99",
+    "img": "Sin Imagen",
+    "code": "P005",
+    "stock": "40",
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": []
+  }
+]
